@@ -15,7 +15,8 @@ P.S.  The app don't save your location( or any other metadata) ; this app is for
 # Project Setup
 
 
-  <img src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(816).png"/>
+  ![image](https://user-images.githubusercontent.com/91663297/234751410-6be19792-a526-46f1-b413-0598ccf83e1c.png)
+
   
 ### Copy the Link of Project
 
