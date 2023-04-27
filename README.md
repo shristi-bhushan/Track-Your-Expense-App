@@ -34,8 +34,6 @@ https://github.com/shristi-bhushan/Track-Your-Expense-App
 
 - Choose git from drop-down menu
 
-<img src="https://github.com/scmishra-cse/Expense-Tracker-App/blob/main/ScreenShorts/Screenshot%20(802).png"/>
-
 - Paste Project link
 
 - Click `Clone` and Wait for some time... it will download all `gradle` files and `dependencies` of the project.
