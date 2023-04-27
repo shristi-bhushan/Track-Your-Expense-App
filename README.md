@@ -1,10 +1,10 @@
 # Expense-Tracker
 
-An app which will help to keep track of your cash transactions systematically.
+An android app which will help to keep track of your cash transactions systematically.
 
 Features:
   1. You can add your expense/income the next time you spend/earn cash and save category of expense.
-  2. View your cash transactions at any time systematically.
+  2. You can view your cash transactions at any time using your mobile .
   3. Sort transactions by month and week.
   4. No internet connection required , the app works completely offline.
    
