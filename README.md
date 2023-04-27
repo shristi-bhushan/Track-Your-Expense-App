@@ -10,8 +10,7 @@ Features:
    
 P.S.  The app don't save your location( or any other metadata) ; this app is for your convenience only.
 
-Start with this app to inculcate a systematic approach in your life.
-                      👍
+### Start with this app to inculcate a systematic approach in your life. 👍
 
 # Project Setup
 
