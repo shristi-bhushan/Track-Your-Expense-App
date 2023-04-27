@@ -20,7 +20,7 @@ Start with this app to inculcate a systematic approach in your life.
 ### Copy the Link of Project
 
 ```
-https://github.com/scmishra-cse/Expense-Tracker-App.git
+https://github.com/shristi-bhushan/Track-Your-Expense-App
 ```
 
 ### Open Android Studio 
