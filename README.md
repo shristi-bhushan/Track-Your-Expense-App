@@ -1,10 +1,9 @@
-# Expense-Manager
-What is Expense Manager?
+# Expense-Tracker
 
-An app which will make you keep track of your cash transactions systematically.
+An app which will help to keep track of your cash transactions systematically.
 
 Features:
-  1. Add your expense/income the next time you spend/earn cash and save category of expense.
+  1. You can add your expense/income the next time you spend/earn cash and save category of expense.
   2. View your cash transactions at any time systematically.
   3. Sort transactions by month and week.
   4. No internet connection required , the app works completely offline.
